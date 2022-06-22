@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  width: 400px;
+  text-align: center;
+  font-family: sans-serif;
+  /* display: flex; */
+  background-color: lightcoral;
+  /* justify-content: center;
+  align-items: flex-end; */
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px;
+}
+
+form {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
